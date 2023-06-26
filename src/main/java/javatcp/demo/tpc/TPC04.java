@@ -1,6 +1,6 @@
-package javatcp.demo.tcp;
+package javatcp.demo.tpc;
 
-public class TCP04 {
+public class TPC04 {
     public static void main(String[] args) {
         // 데이터 이동 (변수 VS 배열)
         int a, b, c;

@@ -1,6 +1,6 @@
-package javatcp.demo.tcp;
+package javatcp.demo.tpc;
 
-public class TCP05 {
+public class TPC05 {
     public static void main(String[] args) {
         int[] arr1 = new int[3];
         arr1[0] = 10;

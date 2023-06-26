@@ -1,6 +1,6 @@
-package javatcp.demo;
+package javatcp.demo.tpc;
 
-public class TCP07 {
+public class TPC07 {
     public static void main(String[] args) {
         // call by value
         int a = 20;

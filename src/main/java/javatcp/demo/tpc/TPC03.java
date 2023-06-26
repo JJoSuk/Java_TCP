@@ -1,9 +1,9 @@
-package javatcp.demo.tcp;
+package javatcp.demo.tpc;
 
-import javatcp.demo.tcp.kr.bit.Book;
-import javatcp.demo.tcp.kr.bit.PersonVO;
+import javatcp.demo.tpc.kr.bit.Book;
+import javatcp.demo.tpc.kr.bit.PersonVO;
 
-public class TCP03 {
+public class TPC03 {
     public static void main(String[] args) {
         // 관계에 대한 이해 PDT(기본자료형) VS UDDT(사용자정의자료형)
         // 정수 1개를 저장하기 위한 변수를 선언.

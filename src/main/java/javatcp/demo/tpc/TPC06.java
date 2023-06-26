@@ -1,6 +1,6 @@
-package javatcp.demo.tcp;
+package javatcp.demo.tpc;
 
-public class TCP06 {
+public class TPC06 {
     public static void main(String[] args) {
         // 메서드 관련 : 동작(method), 기능(function)
         int a = 55;
